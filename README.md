@@ -107,10 +107,8 @@ Interpretable-Wind-Power-Forecasting/
 ├── README.md
 ├── Interpretable_Wind_Power_Forecasting.ipynb
 ├── requirements.txt
-│
-└── results/
-    ├── final_test_results.csv
-    ├── validation_results.csv
-    ├── final_feature_importance.csv
-    ├── final_forecast_comparison.png
-    └── final_feature_importance.png
+├── final_test_results.csv
+├── validation_results.csv
+├── final_feature_importance.csv
+├── final_forecast_comparison.png
+└── final_feature_importance.png
